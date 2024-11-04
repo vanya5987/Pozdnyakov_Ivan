@@ -9,7 +9,7 @@
 
 - И еще немного популярных курсов [UlearPart_1](https://github.com/vanya5987/ForJob/tree/main/UlearnPart_1)
 
-- Все проекты можно посмотреть [ForJob]([ps://github.com/vanya5987/ForJob/tree/main](https://github.com/vanya5987/ForJob/tree/main))
+- Все проекты можно посмотреть [ForJob](https://github.com/vanya5987/ForJob/tree/main)
 
 - Я в телеграмм **@vanyaN9**
 
