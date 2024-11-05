@@ -3,7 +3,7 @@
 
 - Сейчас работаю над проектом [ShareYourText](https://github.com/vanya5987/ForJob/tree/main/ShareYourText)
 
-- Активно изучаю **.NET,SQLite,EF.Core**
+- Активно изучаю **.NET,SQLite,EF.Core** до профессионального уровня.
 
 - Решения популярных курсов [IJunioutNapilnik](https://github.com/vanya5987/ForJob/tree/main/IJuniorNapilnik)
 
