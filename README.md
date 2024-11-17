@@ -7,7 +7,7 @@
 
 - Решения популярных курсов [IJunioutNapilnik](https://github.com/vanya5987/ForJob/tree/main/IJuniorNapilnik)
 
-- И еще немного популярных курсов [UlearPart_1](https://github.com/vanya5987/ForJob/tree/main/UlearnPart_1)
+- И еще немного популярных курсов [UlearnPart_1](https://github.com/vanya5987/ForJob/tree/main/UlearnPart_1)
 
 - Все проекты можно посмотреть [ForJob](https://github.com/vanya5987/ForJob/tree/main)
 
