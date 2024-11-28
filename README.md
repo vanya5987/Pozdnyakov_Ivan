@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Поздняков Иван</h1>
 <h3 align="center">Индивидуальный C# бэкенд разработчик =)</h3>
 
-- Сейчас работаю над проектом [ShareYourText](https://github.com/vanya5987/ForJob/tree/main/ShareYourText)
+- Pet project : [ShareYourText](https://github.com/vanya5987/ShareYourText)
 
 - Активно изучаю **.NET,SQLite,EF.Core** до профессионального уровня.
 
@@ -9,7 +9,7 @@
 
 - И еще немного популярных курсов [UlearnPart_1](https://github.com/vanya5987/ForJob/tree/main/UlearnPart_1)
 
-- Все проекты можно посмотреть [ForJob](https://github.com/vanya5987/ForJob/tree/main)
+- Сейчас работаю над проектом : [TargetDetect](https://github.com/vanya5987/TargetDetect)
 
 - Я в телеграмм **@vanyaN9**
 
