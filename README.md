@@ -5,9 +5,9 @@
 
 - Активно изучаю **.NET,SQLite,EF.Core** до профессионального уровня.
 
-- Решения популярных курсов [IJunioutNapilnik](https://github.com/vanya5987/ForJob/tree/main/IJuniorNapilnik)
+- Решения популярных курсов [IJunioutNapilnik](https://github.com/vanya5987/Courses/tree/main/IJuniorNapilnik)
 
-- И еще немного популярных курсов [UlearnPart_1](https://github.com/vanya5987/ForJob/tree/main/UlearnPart_1)
+- И еще немного популярных курсов [UlearnPart_1](https://github.com/vanya5987/Courses/tree/main/UlearnPart_1)
 
 - Сейчас работаю над проектом : [TargetDetect](https://github.com/vanya5987/TargetDetect)
 
